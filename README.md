@@ -11,16 +11,11 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/igor-augusto-69a266191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:igorasr.exe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/igorauguto.exe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://twitter.com/igoraugusto_exe" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-  <a href="https://discord.gg/4a62wxhpVT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
- </a> 
-  <a href="https://music.youtube.com/playlist?list=PLR5ut0mgyQrSoGGeCFiDDzig59RBH9tVh&feature=share" target="_blank"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" target="_blank">
- </a>
-  <a href="https://steamcommunity.com/id/shisui_exe/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
- </a>
- 
+   <a href="https://twitter.com/Haostalion" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  <a href="https://discord.gg/4a62wxhpVT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://steamcommunity.com/id/haostalion/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+
   ![Snake animation](https://github.com/IgorAugustoexe/IgorAugustoexe/blob/output/github-contribution-grid-snake.svg)
  
 </div>
