@@ -6,9 +6,4 @@
 <div style="display: inline_block"><br>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://acegif.com/wp-content/uploads/2021/4fh5wi/pepefrg-39.gif">
 </div>
-  
-  ##
-
-  ![Snake animation](https://github.com/IgorAugustoexe/IgorAugustoexe/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
