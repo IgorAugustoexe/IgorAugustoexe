@@ -40,9 +40,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/IgorAugustoexe/IgorAugustoexe/output/snake.svg" alt="Snake animation" />
-
-###
