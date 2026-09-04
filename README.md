@@ -2,13 +2,13 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorAugustoexe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Languages" height="200" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/OUYVUInLzHIAAAAM/hacker-pepe.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/OUYVUInLzHIAAAAM/hacker-pepe.gif"  /> -->
 
 ###
 
@@ -34,7 +34,7 @@
   <a href="mailto:igoraugusto.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/igor-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/igor-augusto-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
